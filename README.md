@@ -1,1 +1,2 @@
 # Tableau-Dashboard-Project
+For this project I created an interactive dashboard in Tableau using data imported from an SQL database. The dashboard included different benchmarks for the company including total revenue and sales quantity, revenue and sales quantity by markets, revenue by year, etc. The dashboard could also select for specifics months or years in the dataset. To see different parts of the dashboard click on any of the pdf links above. 
